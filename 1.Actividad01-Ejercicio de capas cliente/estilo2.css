@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(124, 124, 192);
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.foto{
+    border-radius: 25%;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    transition: width 2s;
+    margin:10px;
+}
+
+.foto:hover { 
+    width: 300px;
+}
+
+.Imagenes{
+    text-align: center;
+    margin: 40px;
+   
+}
+
+.Mapa{
+    text-align: center;
+    margin: 40px;
+}
+
+footer  {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color: black;
+    margin: 40px;
+    text-align: center;
+}
+
+.Fecha {
+    color: white;
+}
